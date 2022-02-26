@@ -1,0 +1,257 @@
+<?php
+/*
+Plugin Name: Three Box
+Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
+Author: ABC
+Version: 1.0
+*/
+?>
+<?php 
+function sports_bench_create_db() {
+    global $wpdb;
+    $charset_collate = $wpdb->get_charset_collate();
+    require_once( ABSPATH . 'wp-admin/includes/upgrade.php' );
+    //Create the custom table
+    $table_name = $wpdb->prefix . 'boxdetails';
+    $sql = "CREATE TABLE $table_name (
+    id INTEGER NOT NULL AUTO_INCREMENT,
+    title TEXT NOT NULL,
+    details TEXT NOT NULL,
+    PRIMARY KEY (id)
+    ) $charset_collate;";
+    dbDelta( $sql );
+   }
+   register_activation_hook( __FILE__, 'sports_bench_create_db' );
+   register_activation_hook( __FILE__, 'selectdata' );
+  
+add_action( 'admin_menu', 'admin_menu_page' );
+function admin_menu_page(){
+	add_menu_page(
+		'My Page Title', // page <title>Title</title>
+		'tabledata', // menu link text
+		'manage_options', // capability to access the page
+		'data-slug', // page URL slug
+		'addEntry', // callback function /w content
+		'dashicons-star-half', // menu icon
+		5 // priority
+	);
+ 
+   add_submenu_page( null,//parent page slug
+        'employee_update',//$page_title
+        'Employee Update',// $menu_title
+        'manage_options',// $capability
+        'Employee_Update',// $menu_slug,
+        'employee_update'// $function
+    );
+    add_submenu_page( null,//parent page slug
+        'employee_delete',//$page_title
+        'Employee Delete',// $menu_title
+        'manage_options',// $capability
+        'Employee_Delete',// $menu_slug,
+        'employee_delete'// $function
+    );
+}
+?>
+
+<?php // Add record ?>
+<?php
+function addEntry(){
+global $wpdb;
+if(isset($_POST['btn_submit'])){
+  $id = $_POST['txt_id'];
+  $name = $_POST['txt_title'];
+  $details = $_POST['txt_details'];
+  $tablename = $wpdb->prefix."boxdetails";
+  if($id != '' && $name != '' && $details != ''){
+     $check_data = $wpdb->get_results("SELECT * FROM ".$tablename." WHERE username='".$name."' ");
+     if(count($check_data) == 0){
+       $insert_sql = "INSERT INTO ".$tablename."(id,title,details) values('".$id."','".$name."','".$details."') ";
+       $wpdb->query($insert_sql);
+     }
+   }
+}?>
+<h1>Add New Entry</h1>
+<form method='post' action=''>
+  <table>
+    <tr>
+      <td>Id</td>
+      <td><input type='text' name='txt_id'></td>
+    </tr>
+    <tr>
+     <td>Title</td>
+     <td><input type='text' name='txt_title'></td>
+    </tr>
+    <tr>
+     <td>Details</td>
+     <td><input type='text' name='txt_details'></td>
+    </tr>
+    <tr>
+     <td>&nbsp;</td>
+     <td align="center"><input type='submit' name='btn_submit' value='Submit'></td>
+    </tr>
+ </table>
+</form>
+<br><br><br>
+
+<form method='post' action=''>
+<h1 align=center>All Submitted Inquiry</h1>
+  <table align=center border="1px sloid black" cellspacing=5px cellpdding=5px width=500px>
+    <tr>
+    <th>id</th>
+    <th>title</th>
+    <th>details</th>
+    <th colspan="2">Action</th>
+  </tr>
+  <?php
+            global $wpdb;
+            $table_name = $wpdb->prefix . 'boxdetails';
+            $employees = $wpdb->get_results("SELECT id,title,details from $table_name order by id asc");
+            foreach ($employees as $employee) {
+                ?>
+                <tr>
+                    <td><?= $employee->id; ?></td>
+                    <td><?= $employee->title; ?></td>
+                    <td><?= $employee->details; ?></td>
+                    <td><a href="<?php echo admin_url('admin.php?page=Employee_Update&id=' . $employee->id); ?>">Edit</a> </td>
+                    <td><a href="<?php echo admin_url('admin.php?page=Employee_Delete&id=' . $employee->id); ?>"> Delete</a></td>
+                </tr>
+            <?php } ?>
+ </table>
+</form>
+<?php } ?>
+
+<?php
+function selectdata()
+{?>
+<div class="box" style=" width:100%;
+            height:190px;
+            background-color:white;
+            padding-top:20px;
+            padding-left:300px;
+            padding-right:300px; 
+            align-items:center;
+            ">
+<div id="box" style="display:flex;" >
+  <?php
+                        global $wpdb;
+                        $tablename = $wpdb->prefix."boxdetails";
+  $entriesList = $wpdb->get_results("SELECT * FROM ".$tablename." order by id asc");
+    foreach($entriesList as $entry){
+      $id = $entry->id;
+      $name = $entry->title;
+      $details = $entry->details;?>          
+     <div id="subdiv" style=" float:left;
+            width:33.33%;
+            height:160px;
+            background-color:tomato;
+            color:white;
+            border:solid grey; align-items:center; padding-top:25px; margin:left 10px; margin: right 20px; ">
+     <?php
+      echo "<h2 align=center>".$id."</h2>";
+      echo "<h4 align=center>".$name."</h4>";
+      echo "<h5 align=center>".$details."</h5>";
+    ?>
+      </div>
+    <?php } ?>
+    </div>
+    </div>
+  <?php
+
+  }?>
+<?php
+add_shortcode('displaydata','selectdata');
+?>
+
+<?php
+// Delete-table
+function delete_students_table() {
+    global $wpdb;
+    $table_name =$wpdb->prefix.'boxdetails';
+    $sql = "DROP TABLE IF EXISTS $table_name";
+    $wpdb->query($sql);
+    delete_option("devnote_plugin_db_version");
+}
+register_deactivation_hook( __FILE__, 'delete_students_table' );
+?>
+
+<?php
+//echo "employee delete";
+function employee_delete(){
+    if(isset($_GET['id'])){
+        global $wpdb;
+        $table_name=$wpdb->prefix.'boxdetails';
+        $i=$_GET['id'];
+        $wpdb->delete(
+            $table_name,
+            array('id'=>$i)
+        );
+        
+    }
+   // echo get_site_url() .'/wp-admin/admin.php?page=Employee_List';
+    echo "deleted";
+    ?>
+<!--     <meta http-equiv="refresh" content="0; url=http://localhost/wordpressmyplugin/wordpress/wp-admin/admin.php?page=Employee_Listing" />
+ -->    <?php
+    //wp_redirect( admin_url('admin.php?page=page=Employee_List'),301 );
+    //exit;
+    //header("location:http://localhost/wordpressmyplugin/wordpress/wp-admin/admin.php?page=Employee_Listing");
+}
+?>
+
+<?php
+//echo "update page";
+function employee_update(){
+    //echo "update page in";
+    $i=$_GET['id'];
+    global $wpdb;
+    $table_name = $wpdb->prefix . 'boxdetails';
+    $employees = $wpdb->get_results("SELECT id,title,details from $table_name where id=$i");
+    echo $employees[0]->id;
+    ?>
+    <h1>Update Entry</h1>
+<form method='post' action=''>
+  <table>
+    <tr>
+      <td>Id</td>
+      <td><input type='text' name='txt_id' value="<?= $employees[0]->id; ?>"></td>
+    </tr>
+    <tr>
+     <td>Title</td>
+     <td><input type='text' name='txt_title' value="<?= $employees[0]->title; ?>"></td>
+    </tr>
+    <tr>
+     <td>Details</td>
+     <td><input type='text' name='txt_details' value="<?= $employees[0]->details; ?>"></td>
+    </tr>
+    <tr>
+     <td>&nbsp;</td>
+     <td align="center"><input type='submit' name='btn_update' value='Update'></td>
+    </tr>
+ </table>
+</form>
+<?php
+}
+if(isset($_POST['btn_update']))
+{
+    global $wpdb;
+    $table_name=$wpdb->prefix.'boxdetails';
+    $id=$_POST['txt_id'];
+    $ti=$_POST['txt_title'];
+    $de=$_POST['txt_details'];
+    $wpdb->update(
+        $table_name,
+        array(
+            'id'=>$id,
+            'title'=>$ti,
+            'details'=>$de,
+        ),
+     array(
+           'id'=>$id
+        )
+    );
+  
+    $url=admin_url('admin.php?page=data_slug');
+    echo "update";
+    //header("location:http://localhost/wordpressmyplugin/wordpress/wp-admin/admin.php?page=Employee_Listing");
+}
+?>

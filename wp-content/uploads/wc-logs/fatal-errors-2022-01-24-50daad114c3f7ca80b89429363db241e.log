@@ -1,0 +1,6 @@
+2022-01-24T11:00:50+00:00 CRITICAL Cannot redeclare admin_menu_page() (previously declared in D:\wamp64\www\lava\wp-content\plugins\customplugin\threebox.php:30) in D:\wamp64\www\lava\wp-content\plugins\formplugin\form.php on line 11
+
+2022-01-24T11:00:51+00:00 CRITICAL Cannot redeclare admin_menu_page() (previously declared in D:\wamp64\www\lava\wp-content\plugins\customplugin\threebox.php:30) in D:\wamp64\www\lava\wp-content\plugins\formplugin\form.php on line 11
+
+2022-01-24T11:00:51+00:00 CRITICAL Cannot redeclare admin_menu_page() (previously declared in D:\wamp64\www\lava\wp-content\plugins\customplugin\threebox.php:30) in D:\wamp64\www\lava\wp-content\plugins\formplugin\form.php on line 11
+

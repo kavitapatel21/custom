@@ -1,0 +1,10 @@
+2022-02-01T04:36:15+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\single-testimonial-one.php on line 19
+
+2022-02-01T10:54:22+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\template\contactus.php on line 24
+
+2022-02-01T11:44:54+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 63
+
+2022-02-01T12:20:37+00:00 CRITICAL require_once(): Failed opening required '../../../../wp-config.php' (include_path='.;C:\php\pear') in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 56
+
+2022-02-01T12:22:28+00:00 CRITICAL require_once(): Failed opening required '../../../../wp-config.php' (include_path='.;C:\php\pear') in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 56
+

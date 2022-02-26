@@ -1,0 +1,8 @@
+2022-01-20T04:01:49+00:00 CRITICAL Cannot redeclare create_plugin_database_table() (previously declared in D:\wamp64\www\lava\wp-content\plugins\threebox\threebox.php:67) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 113
+
+2022-01-20T05:19:23+00:00 CRITICAL Cannot redeclare sanitize() (previously declared in D:\wamp64\www\lava\wp-content\plugins\threebox\threebox.php:175) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 102
+
+2022-01-20T05:21:00+00:00 CRITICAL Cannot redeclare sanitize() (previously declared in D:\wamp64\www\lava\wp-content\plugins\threebox\threebox.php:175) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 102
+
+2022-01-20T05:21:12+00:00 CRITICAL Cannot redeclare sanitize() (previously declared in D:\wamp64\www\lava\wp-content\plugins\threebox\threebox.php:175) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 102
+

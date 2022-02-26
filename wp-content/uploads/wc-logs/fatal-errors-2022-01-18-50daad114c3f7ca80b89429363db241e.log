@@ -1,0 +1,27 @@
+2022-01-18T07:20:44+00:00 CRITICAL Uncaught Error: Call to undefined function insert_post_meta() in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:26
+Stack trace:
+#0 D:\wamp64\www\lava\wp-settings.php(546): include()
+#1 D:\wamp64\www\lava\wp-config.php(96): require_once('D:\\wamp64\\www\\l...')
+#2 D:\wamp64\www\lava\wp-load.php(50): require_once('D:\\wamp64\\www\\l...')
+#3 D:\wamp64\www\lava\wp-admin\admin-ajax.php(22): require_once('D:\\wamp64\\www\\l...')
+#4 {main}
+  thrown in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 26
+
+2022-01-18T07:20:53+00:00 CRITICAL Uncaught Error: Call to undefined function insert_post_meta() in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:26
+Stack trace:
+#0 D:\wamp64\www\lava\wp-settings.php(546): include()
+#1 D:\wamp64\www\lava\wp-config.php(96): require_once('D:\\wamp64\\www\\l...')
+#2 D:\wamp64\www\lava\wp-load.php(50): require_once('D:\\wamp64\\www\\l...')
+#3 D:\wamp64\www\lava\wp-admin\admin.php(34): require_once('D:\\wamp64\\www\\l...')
+#4 D:\wamp64\www\lava\wp-admin\edit.php(10): require_once('D:\\wamp64\\www\\l...')
+#5 {main}
+  thrown in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 26
+
+2022-01-18T08:22:55+00:00 CRITICAL syntax error, unexpected '=', expecting identifier (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\template\home.php on line 144
+
+2022-01-18T11:05:16+00:00 CRITICAL syntax error, unexpected 't' (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 72
+
+2022-01-18T11:42:38+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 84
+
+2022-01-18T11:42:39+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 84
+

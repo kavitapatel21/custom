@@ -1,0 +1,577 @@
+2022-01-17T06:22:17+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:23:49+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:24:04+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:24:25+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:24:29+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:24:44+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:24:59+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:25:15+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:26:50+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:27:05+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:27:40+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:29:10+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:30:10+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:31:11+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:32:04+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:32:09+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\meta-boxes.php on line 1613
+
+2022-01-17T06:33:33+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\meta-boxes.php on line 1613
+
+2022-01-17T06:33:37+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\meta-boxes.php on line 1613
+
+2022-01-17T06:33:56+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\meta-boxes.php on line 1613
+
+2022-01-17T06:34:53+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\meta-boxes.php on line 1613
+
+2022-01-17T06:34:54+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\meta-boxes.php on line 1613
+
+2022-01-17T06:34:55+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\meta-boxes.php on line 1613
+
+2022-01-17T06:35:15+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:35:19+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:35:22+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\meta-boxes.php on line 1613
+
+2022-01-17T06:36:54+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:37:02+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:38:09+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:39:47+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:39:53+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:39:53+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:40:08+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:41:06+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:41:21+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:41:37+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:43:10+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:43:15+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:45:41+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:45:42+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:45:42+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:42+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:43+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:43+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:43+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:44+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:44+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:44+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:44+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:44+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:45+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:45+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:45+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:45+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:45+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:46:45+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 13
+
+2022-01-17T06:48:28+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:50:30+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:51:35+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:52:35+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:54:36+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:55:17+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:55:18+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:55:34+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:55:48+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:56:03+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:56:19+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:57:29+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:59:30+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:59:53+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T06:59:53+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:00:09+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:13) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:00:24+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:00:40+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:00:55+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:02:57+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:04:57+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:05:17+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:05:17+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:05:33+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:07:34+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:09:35+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:11:36+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:13:37+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:15:38+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:17:35+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:19:37+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:20:26+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:20:41+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:20:56+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:21:11+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:21:27+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:23:28+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:23:47+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:23:50+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:23:59+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:23:59+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:24:15+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:26:16+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:28:17+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:30:18+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:32:19+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:22) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:32:36+00:00 CRITICAL Cannot redeclare get_metadata() (previously declared in D:\wamp64\www\lava\wp-includes\meta.php:508) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 15
+
+2022-01-17T07:34:37+00:00 CRITICAL Cannot redeclare get_metadata() (previously declared in D:\wamp64\www\lava\wp-includes\meta.php:508) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 15
+
+2022-01-17T07:35:08+00:00 CRITICAL Cannot redeclare get_metadata() (previously declared in D:\wamp64\www\lava\wp-includes\meta.php:508) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 24
+
+2022-01-17T07:35:23+00:00 CRITICAL Cannot redeclare get_metadata() (previously declared in D:\wamp64\www\lava\wp-includes\meta.php:508) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 24
+
+2022-01-17T07:37:24+00:00 CRITICAL Cannot redeclare get_metadata() (previously declared in D:\wamp64\www\lava\wp-includes\meta.php:508) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 24
+
+2022-01-17T07:38:39+00:00 CRITICAL Cannot redeclare get_metadata() (previously declared in D:\wamp64\www\lava\wp-includes\meta.php:508) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 24
+
+2022-01-17T07:38:43+00:00 CRITICAL Cannot redeclare get_metadata() (previously declared in D:\wamp64\www\lava\wp-includes\meta.php:508) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 24
+
+2022-01-17T07:38:45+00:00 CRITICAL Cannot redeclare get_metadata() (previously declared in D:\wamp64\www\lava\wp-includes\meta.php:508) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 24
+
+2022-01-17T07:49:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_user_meta() in D:\wamp64\www\lava\wp-includes\class-wp-user.php:877
+Stack trace:
+#0 D:\wamp64\www\lava\wp-includes\class-wp-user.php(852): WP_User->get_caps_data()
+#1 D:\wamp64\www\lava\wp-includes\class-wp-user.php(176): WP_User->for_site('')
+#2 D:\wamp64\www\lava\wp-includes\pluggable.php(116): WP_User->init(Object(stdClass))
+#3 D:\wamp64\www\lava\wp-includes\pluggable.php(707): get_user_by('login', 'lava123')
+#4 D:\wamp64\www\lava\wp-includes\user.php(536): wp_validate_auth_cookie('lava123|1642574...', 'logged_in')
+#5 D:\wamp64\www\lava\wp-includes\class-wp-hook.php(303): wp_validate_logged_in_cookie(false)
+#6 D:\wamp64\www\lava\wp-includes\plugin.php(189): WP_Hook->apply_filters(false, Array)
+#7 D:\wamp64\www\lava\wp-includes\user.php(3191): apply_filters('determine_curre...', false)
+#8 D:\wamp64\www\lava\wp-includes\pluggable.php(70): _wp_get_current_user()
+#9 D:\wamp64\www\lava\wp-includes\class-wp.php(616): wp_get_current_user()
+#10 D:\wamp64\www\lava\wp-s in D:\wamp64\www\lava\wp-includes\class-wp-user.php on line 877
+
+2022-01-17T07:55:53+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-includes\post.php:2250) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 15
+
+2022-01-17T07:57:48+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:57:53+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:58:00+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:58:00+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:58:16+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:58:31+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T07:58:46+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:00:01+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:00:17+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:00:33+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:02:34+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:04:24+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:04:40+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:06:41+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:15) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:07:48+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:26) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:08:02+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:26) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:10:04+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:26) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:12:05+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:25) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:14:06+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:25) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:15:06+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:25) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:15:22+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:25) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T08:22:59+00:00 CRITICAL Uncaught Error: Call to undefined function add_post_meta() in D:\wamp64\www\lava\wp-includes\post.php:3376
+Stack trace:
+#0 D:\wamp64\www\lava\wp-admin\post.php(260): wp_trash_post(119)
+#1 {main}
+  thrown in D:\wamp64\www\lava\wp-includes\post.php on line 3376
+
+2022-01-17T09:01:39+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:01:44+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:01:47+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:01:50+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:01:54+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:02:42+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:05:15+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:06:16+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:07:49+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:08:50+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:10:51+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:12:52+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:14:53+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:16:54+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:20:08+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:21:09+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:23:10+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:25:10+00:00 CRITICAL syntax error, unexpected 'IGNORE' (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 25
+
+2022-01-17T09:26:08+00:00 CRITICAL syntax error, unexpected 'IGNORE' (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 25
+
+2022-01-17T09:26:26+00:00 CRITICAL syntax error, unexpected 'INTO' (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 25
+
+2022-01-17T09:26:27+00:00 CRITICAL syntax error, unexpected 'INTO' (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 25
+
+2022-01-17T09:26:40+00:00 CRITICAL syntax error, unexpected 'into' (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 25
+
+2022-01-17T09:26:41+00:00 CRITICAL syntax error, unexpected 'into' (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 25
+
+2022-01-17T09:26:41+00:00 CRITICAL syntax error, unexpected 'into' (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 25
+
+2022-01-17T09:26:50+00:00 CRITICAL syntax error, unexpected 'wp_postmeta' (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 25
+
+2022-01-17T09:27:23+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:27:26+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:27:28+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:27:31+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:27:38+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:27:42+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:27:57+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:29:59+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:32:00+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:34:01+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:36:02+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:38:03+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:40:03+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:42:04+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:44:05+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:45:57+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:46:13+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:48:14+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:50:15+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:52:17+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:52:17+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:54:17+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T09:56:18+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:05:01+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:05:04+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:05:20+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:05:20+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:06:08+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:08:05+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:08:23+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:08:23+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:08:39+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:09:31+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:09:46+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:10:01+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:10:50+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:11:05+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:11:22+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:13:23+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:15:24+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:17:25+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:19:26+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:19:42+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:19:46+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:19:49+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:19:57+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::get_result() in D:\wamp64\www\lava\wp-content\plugins\newplugin\hello.php:19
+Stack trace:
+#0 D:\wamp64\www\lava\wp-admin\includes\plugin.php(2286): include_once()
+#1 D:\wamp64\www\lava\wp-admin\includes\plugin.php(668): plugin_sandbox_scrape('newplugin/hello...')
+#2 D:\wamp64\www\lava\wp-admin\plugins.php(58): activate_plugin('newplugin/hello...', 'http://localhos...', false)
+#3 {main}
+  thrown in D:\wamp64\www\lava\wp-content\plugins\newplugin\hello.php on line 19
+
+2022-01-17T10:19:58+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::get_result() in D:\wamp64\www\lava\wp-content\plugins\newplugin\hello.php:19
+Stack trace:
+#0 D:\wamp64\www\lava\wp-admin\includes\plugin.php(2286): include_once()
+#1 D:\wamp64\www\lava\wp-admin\plugins.php(191): plugin_sandbox_scrape('newplugin/hello...')
+#2 {main}
+  thrown in D:\wamp64\www\lava\wp-content\plugins\newplugin\hello.php on line 19
+
+2022-01-17T10:19:58+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::get_result() in D:\wamp64\www\lava\wp-content\plugins\newplugin\hello.php:19
+Stack trace:
+#0 D:\wamp64\www\lava\wp-admin\includes\plugin.php(2286): include_once()
+#1 D:\wamp64\www\lava\wp-admin\plugins.php(191): plugin_sandbox_scrape('newplugin/hello...')
+#2 {main}
+  thrown in D:\wamp64\www\lava\wp-content\plugins\newplugin\hello.php on line 19
+
+2022-01-17T10:20:44+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:20:47+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:21:50+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:22:07+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:22:07+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:22:15+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:22:17+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:22:32+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:23:36+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:25:37+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:27:38+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:29:39+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:30:24+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:30:24+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:30:27+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:30:29+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:30:45+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:32:30+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:32:38+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:33:04+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:33:04+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:33:27+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:33:33+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:33:48+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:33:53+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:34:10+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:34:10+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:34:13+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:34:33+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:34:34+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:35:12+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:35:34+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:36:34+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:37:19+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:37:35+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:38:36+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:40:37+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:41:38+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:43:39+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:45:40+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:47:41+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:49:42+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T10:51:43+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:02:43+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:02:50+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:02:50+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:03:12+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:03:12+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:03:28+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:04:31+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:06:32+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:07:32+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:08:33+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:10:34+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:12:35+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:13:59+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:14:59+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:17:00+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:19:01+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:21:02+00:00 CRITICAL Cannot redeclare add_post_meta() (previously declared in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:14) in D:\wamp64\www\lava\wp-admin\includes\ajax-actions.php on line 5458
+
+2022-01-17T11:56:15+00:00 CRITICAL Uncaught Error: Call to undefined function add_post_meta() in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php:19
+Stack trace:
+#0 D:\wamp64\www\lava\wp-settings.php(546): include()
+#1 D:\wamp64\www\lava\wp-config.php(96): require_once('D:\\wamp64\\www\\l...')
+#2 D:\wamp64\www\lava\wp-load.php(50): require_once('D:\\wamp64\\www\\l...')
+#3 D:\wamp64\www\lava\wp-admin\admin-ajax.php(22): require_once('D:\\wamp64\\www\\l...')
+#4 {main}
+  thrown in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 19
+
+2022-01-17T11:58:16+00:00 CRITICAL syntax error, unexpected 'INTO' (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 20
+
+2022-01-17T11:59:12+00:00 CRITICAL syntax error, unexpected 'INTO' (T_STRING) in D:\wamp64\www\lava\wp-content\themes\twentytwentyone-child\functions.php on line 20
+
